@@ -1,4 +1,4 @@
-f = open('access_log', 'r')
+f = open('access_log2.txt', 'r')
 
 count = 0
 for line in f:
